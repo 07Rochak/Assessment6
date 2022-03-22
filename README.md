@@ -15,6 +15,7 @@ On clicking 'Go to feeds page' the app will navigate you to feeds page from home
 On clicking 'Peojects' the app will navigate you to project page from home page
 
 Some screenshots are:
+
 - Home page:
 
   ![alt text](./assets/home.jpeg)
